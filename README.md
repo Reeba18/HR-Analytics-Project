@@ -44,7 +44,7 @@ Utilize Python packages to provide answers to the questions and plot charts for 
 Using Power BI or Tableau, clean and prepare the Excel file generated from Task 1. Create a two-page report/dashboard that showcases the HR analysis. Ensure the dashboard effectively communicates the insights derived from the data.
 
 ### Task 3 : Predictive Modeling with Machine Learning Models
-Employ ML alogirthms to predict if employees would be optiong for a job change or not. Prepare a presentation based on your findings.
+Employ ML alogirthms to predict if employees would be optiong for a job change or not. 
 
 ## Result
 Presented findings and recommendations based on comprehensive data analysis, highlighting the potential impact of the BusyQA Data Science Courses on candidates' career trajectories, aiding in the development of targeted strategies to enhance job placement opportunities by 35% for enrolled candidates and the company's revenue by 30%.
