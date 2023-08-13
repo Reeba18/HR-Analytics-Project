@@ -41,7 +41,7 @@ Creating a correlation matrix to identify relationships between variables.
 Utilize Python packages to provide answers to the questions and plot charts for univariate and bivariate analysis using the Matplotlib/Seaborn package.
 
 ### Task2 : Dashboard Creation
-Using Power BI or Tableau, clean and prepare the Excel file generated from Task 1. Create a two-page report/dashboard that showcases the HR analysis. Ensure the dashboard effectively communicates the insights derived from the data.
+Using Power BI or Tableau, clean and prepare the Excel file generated from Task 1. Create a two-page report/dashboard that showcases the HR analysis. Make sure that the dashboard effectively communicates the insights derived from the data.
 
 ### Task 3 : Predictive Modeling with Machine Learning Models
 Employ ML alogirthms to predict if employees would be optiong for a job change or not. 
