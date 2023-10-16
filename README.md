@@ -1,4 +1,6 @@
 # HR-Analytics-Project
+View this project on : https://mavenanalytics.io/project/8992
+
 HR analytics is revolutionizing the way human resources departments operate, leading to higher efficiency and better results overall. Although HR departments have been using analytics for years, the collection, processing, and analysis of data have predominantly been manual. Given the nature of human resources dynamics and HR key performance indicators (KPIs), this manual approach has constrained HR operations.
 
 It is surprising that HR departments have only recently recognized the utility of machine learning in this domain. This project provides an opportunity to explore predictive analytics in the HR field.
